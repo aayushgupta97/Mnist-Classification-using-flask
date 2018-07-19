@@ -1,4 +1,4 @@
-
+#Model for Mnist Training
 
 from __future__ import print_function
 import keras
